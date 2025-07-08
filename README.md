@@ -9,6 +9,8 @@ Place: Stellenbosch University (Deep Learning IndabaX South Africa)
 Room: M2002
 
 
+![ DLIx Poster](docs/dlix_poster.jpeg)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
