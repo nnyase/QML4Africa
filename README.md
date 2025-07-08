@@ -1,6 +1,13 @@
 # QML4Africa Workshop
 
-Welcome to the QML4Africa workshop! This hands‑on series will introduce you to quantum computing, and quantum machine learning (QML) concepts and practical coding exercises using Qiskit and related quantum tools.
+Welcome to the QML4Africa workshop at Deep Learning IndabaX! This hands‑on series will introduce you to quantum computing, and quantum machine learning (QML) concepts and practical coding exercises using Qiskit and related quantum tools.
+
+Hosts: Ndivhuwo Nyase, Bonga Njamela, Stephanie Muller
+Date: 11 July 2025 Thursday
+Time: 10:00 - 15:30
+Place: Stellenbosch University (Deep Learning IndabaX South Africa)
+Room: M2002
+
 
 ## Table of Contents
 
@@ -12,7 +19,7 @@ Welcome to the QML4Africa workshop! This hands‑on series will introduce you to
    - [1.1 Superposition](#11-superposition)
    - [1.2 Bell State](#12-bell-state)
    - [1.3 GHZ State](#13-ghz-state)
-6. [Next Steps and Resources](#next-steps-and-resources)
+6. [Exercise 2: Exploring the Bloch Sphere](#exploring-the-bloch-sphere)
 
 ---
 
