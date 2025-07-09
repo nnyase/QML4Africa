@@ -22,6 +22,9 @@ Room: M2002
    - [1.2 Bell State](#12-bell-state)
    - [1.3 GHZ State](#13-ghz-state)
 6. [Exercise 2: Exploring the Bloch Sphere](#exploring-the-bloch-sphere)
+- 2.1 Bloch Sphere Exploration
+- 2.2 Gate Exploration 
+8. [Exercise 3: Quantum Machine Learning](#qml)
 
 ---
 
