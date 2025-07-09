@@ -121,9 +121,12 @@ Review classical bits vs. qubits, and how the Bloch sphere represents both super
 Experiment with different gates and angles to understand rotations on the sphere.
 
 
-- **Exercise 3:** Variational Quantum Circuits for Classification
+## Exercise 3: Introduction to the QML using IRIS dataset
 
-NEED TO DO STILL 
+  In this exercise, we will demonstrate quantum computing and machine learning (ML) concepts explored during conference and help participants to consolodate their knowledge of QML. Using a quantum machine learning model we will predict the iris dataset.
+
+3.1 Loading Classical Data onto a Quantum Circuit
+3.2 Apply the Quantum Neural Network or Ansatz
 
 
 - **Resources:**
